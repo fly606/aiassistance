@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.study_assistant.db
+study_assistant.db
+*.sqlite3
+.DS_Store
